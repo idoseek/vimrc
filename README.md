@@ -1,7 +1,7 @@
 # vimrc
 1. 安装vim，下载本配置文件：
 ```
-wget https://raw.githubusercontent.com/idoseek/vimrc/master/.vimrc ~
+cd ~ && wget https://raw.githubusercontent.com/idoseek/vimrc/master/.vimrc
 ```
 2. 安装Vundle管理器：
 ``` bash
